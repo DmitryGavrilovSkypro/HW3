@@ -1,7 +1,6 @@
 
 
 
-
 // example1//
 let password = 'пароль';
 let enterPassword = prompt('«Введите пароль»');
